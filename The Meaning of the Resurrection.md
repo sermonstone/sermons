@@ -1,10 +1,9 @@
-# The Meaning of the Resurrection
+amp# The Meaning of the Resurrection
 
 ## Introduction
 
 The resurrection of Jesus was a consistent theme in the preaching ministry of
-the Apostles. Let's see evidence of this in portions of the sermons recorded in
-Acts. In Acts 2, Peter is preaching on Pentecost, and speaks about the
+the Apostles. For example, in Acts 2, Peter is preaching on Pentecost, and speaks about the
 resurrection.
 
 [Acts 2:22-36 English Standard Version
