@@ -1,12 +1,14 @@
 # Reconciliation
 
-Introduction
+## Reconciliation
 
 Colossians 1: 19–23 English Standard Version \(ESV\)
 
 > 19 For in him all the fullness of God was pleased to dwell, 20 and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.
 >
 > 21 And you, who once were alienated and hostile in mind, doing evil deeds, 22 he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, 23 if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation under heaven, and of which I, Paul, became a minister.
+
+## Introduction
 
 In simplest language, _to reconcile_ is to make peace. When two parties are estranged, feuding or at war, they are reconciled when they put aside their differences or hostility.
 

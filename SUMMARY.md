@@ -1,7 +1,8 @@
 # Table of contents
 
-* [The Peace of Christ](README.md)
-* [Reconciliation](reconciliation.md)
+* [sermons](README.md)
 * [The Meaning of the Resurrection](untitled.md)
-* [index](untitled-1.md)
+* [Reconciliation](reconciliation.md)
+* [The Meaning of the Resurrection](the-meaning-of-the-resurrection.md)
+* [The Peace of Christ](the-peace-of-christ.md)
 
